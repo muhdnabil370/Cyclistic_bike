@@ -15,8 +15,8 @@ To achieve this, Moreno has set a clear goal: create marketing strategies to con
 The primary dataset used for this analysis is the "202301-divvy-tripdata.csv","202302-divvy-tripdata.csv","202303-divvy-tripdata.csv","202304-divvy-tripdata.csv","202305-divvy-tripdata.csv","202306-divvy-tripdata.csv","202307-divvy-tripdata.csv","202308-divvy-tripdata.csv","202309-divvy-tripdata.csv","202310-divvy-tripdata.csv","202311-divvy-tripdata.csv","202312-divvy-tripdata.csv" file containing detailed information about the Cyclistic that use by the client.
 
 ### Tools
-- Excel - Data cleaning
-- R Studio - Data analysis and creating visualization
+- R Studio - Data validation and cleaning
+- Tableau - Visualization
 
 ### Data Cleaning Preparation
 
